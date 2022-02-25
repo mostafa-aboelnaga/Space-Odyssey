@@ -7,7 +7,7 @@
 ## 😎 **Quick start**
 
 
-First, [download](https://www.python.org/downloads/) and install **Python**. Version `3.7` or higher is required.
+First, [download](https://www.python.org/downloads/) and install **Python**. Version `3.7` or higher is recommended.
 
 
 Let's now install our dependencies **required modules** using pip:
