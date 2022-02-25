@@ -4,9 +4,7 @@
 # ![Space Odyssey](https://github.com/mostafa-aboelnaga/Space-Odyssey/blob/main/Demo/SpaceOdysseyIntroImage.jpg?raw=true)
 
 <br>
-
 ## 😎 **Quick start**
-
 <br>
 
 First, [download](https://www.python.org/downloads/) and install **Python**. Version `3.7` or higher is required.
@@ -29,9 +27,7 @@ That's all you need to know to start! ✅
 
 <br>
 <br>
-  
 ## ⚙️ **In-game Controls**
-
 <br>
 
 ### `Arrow Keys`
@@ -47,9 +43,7 @@ You can play again (after losing 🤦‍♂️) by pressing the spacebar key.
 You can exit the whole game by pressing the F1 key.
 
 <br>
-
 ##  **Built with**
-
 <br>
 
 
