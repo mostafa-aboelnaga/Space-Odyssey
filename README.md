@@ -3,9 +3,9 @@
 
 # ![Space Odyssey](https://github.com/mostafa-aboelnaga/Space-Odyssey/blob/main/Demo/SpaceOdysseyIntroImage.jpg?raw=true)
 
-<br>
+
 ## 😎 **Quick start**
-<br>
+
 
 First, [download](https://www.python.org/downloads/) and install **Python**. Version `3.7` or higher is required.
 
@@ -26,9 +26,9 @@ That's all you need to know to start! ✅
 
 
 <br>
-<br>
+
 ## ⚙️ **In-game Controls**
-<br>
+
 
 ### `Arrow Keys`
 
@@ -43,8 +43,9 @@ You can play again (after losing 🤦‍♂️) by pressing the spacebar key.
 You can exit the whole game by pressing the F1 key.
 
 <br>
+
 ##  **Built with**
-<br>
+
 
 
 - [Python](https://www.w3schools.com/python/python_reference.asp) - Python is a popular programming language used in many fields.
@@ -52,9 +53,7 @@ You can exit the whole game by pressing the F1 key.
 - [PyOpenGL](http://pyopengl.sourceforge.net/) - PyOpenGL is the most common cross platform Python binding to OpenGL and related APIs.
 - [pygame](https://pypi.org/project/pygame/) - pygame is a free and open-source cross-platform library for the development of multimedia applications like video games using Python.
 
-
 <br>
-
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
